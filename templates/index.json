@@ -52,7 +52,6 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
-      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "Promotion text",
@@ -66,14 +65,40 @@
         "text_gradient": ""
       }
     },
+    "featured_collection_hdGaNj": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "title": "95%",
+            "subheading": "de nos clients voit un résultat instantané !",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -85,7 +110,6 @@
       "block_order": [
         "1664424181b38582d5-0"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -95,8 +119,8 @@
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "heading_text_color": "#1a1a1a",
+        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 1), rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
@@ -403,6 +427,7 @@
   "order": [
     "slideshow",
     "scrolling-text",
+    "featured_collection_hdGaNj",
     "impact-text",
     "media_with_text_BQE8yY",
     "image_with_text_overlay_PrHEgD",
