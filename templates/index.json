@@ -15,12 +15,11 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Banniere_femme_qui_se_mord_les_levres_1.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "UN REGARD, UN SOURIRE EN COIN, UN COMPLIMENT INATTENDU…",
+            "title": "Calv",
             "heading_tag": "h3",
             "button_text": "Avec Parfum Vaillant",
             "button_link": "https://parfum-vaillant.com/products/parfum-vaillant",
@@ -107,7 +106,6 @@
         "image_dGqUJx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Bouteille_de_parum_Vaillant_avec_boite.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -163,7 +161,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/Bannieer_femme_regard.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -177,7 +174,6 @@
         "image_NXN4Tq": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Bouteille_de_parum_Vaillant.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -233,7 +229,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/Banniere_lion.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -247,7 +242,6 @@
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
-            "logo": "shopify://shop_images/elle_300xlogo.png",
             "logo_width": 150,
             "author": "",
             "content": "LE parfum du moment, nous avons reçu des dizaines et des dizaines de messages à propos de ce parfum \"",
@@ -258,7 +252,6 @@
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
-            "logo": "shopify://shop_images/grazia_300xlogo.png",
             "logo_width": 170,
             "author": "",
             "content": "une odeur vraiment unique qui ne laisse personne indifférent",
@@ -285,17 +278,6 @@
     },
     "1750975430121df20d": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_homepage_i9tnHt": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "parfum-vaillant"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_homepage_i9tnHt"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
